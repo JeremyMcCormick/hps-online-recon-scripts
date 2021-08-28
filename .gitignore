@@ -1,7 +1,9 @@
 bin/
 repo/
+scratch/
+logs/
+
 *.root
 *.aida
-logs/
 *.log
 *.bak
