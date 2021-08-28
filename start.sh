@@ -1,1 +1,1 @@
-bin/online-recon-client --host localhost start
+./bin/online-recon-client --host localhost start

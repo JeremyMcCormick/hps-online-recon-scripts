@@ -1,5 +1,8 @@
 #!/bin/sh
 
+echo "This does not work!!!"
+exit 1
+
 echo "Starting ET ring..."
 xterm -e "./et_start.sh" &
 echo "Waiting 5 seconds for ET ring to initialize..."
