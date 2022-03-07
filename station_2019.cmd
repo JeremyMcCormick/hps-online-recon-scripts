@@ -15,5 +15,4 @@ set lcsim.run 10031
 set lcsim.jvm_args -Xmx800m
 
 # create stations and start them
-#create -s 8
 create -s 2
